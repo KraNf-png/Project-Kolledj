@@ -1,0 +1,13 @@
+﻿  Ai.cpp
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(46,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(66,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(122,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(488,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(491,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(510,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(513,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(516,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(519,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(553,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Code\C++\Ai\Ai\Ai\Ai.cpp(634,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Ai.vcxproj -> D:\Code\C++\Ai\Ai\Debug\Ai.exe
